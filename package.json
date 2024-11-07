@@ -1,0 +1,12 @@
+{
+  "name": "whatsapp-chatgpt-bot",
+  "version": "1.0.0",
+  "description": "Chatbot WhatsApp dengan integrasi ChatGPT",
+  "main": "whatsapp_bot.js",
+  "scripts": {
+    "start": "node whatsapp_bot.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.4.0"
+  }
+}
